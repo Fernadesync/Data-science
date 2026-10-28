@@ -1,3 +1,0 @@
-SELECT 'Hello world!'
-
-
